@@ -1,0 +1,14 @@
+TITLE = "Grid Map Designs"
+TILESIZE = 32
+screenW = TILESIZE * 30
+screenH = TILESIZE * 25
+FPS = 60
+PLAYERSPEED = 300
+
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+BLUE = (0, 0, 255)
+LIGHTGREY = (100, 100, 100)
+YELLOW = (255, 255, 0)
